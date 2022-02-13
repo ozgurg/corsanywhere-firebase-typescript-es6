@@ -1,7 +1,7 @@
 # cors-anywhere & Firebase Functions & TypeScript & ES6 modules
 Example usage of cors-anywhere & Firebase Functions & TypeScript & ES6 modules.
 
-See `functions/src/index.ts`
+Check out `functions/src/index.ts`
 
 ## Usage
 1) Install dependencies
@@ -14,10 +14,10 @@ cd functions && npm install
 
 3) Deploy the function
 ``` sh
-cd functions && npm run deploy
+npm run deploy
 ```
 
-4) Now you can access cors-anywhere when you enter: https://{FIREBASE_REGION}-{PROJECT_NAME}.cloudfunctions.net/cors
+4) Now you can access "cors-anywhere" when you go `https://{FIREBASE_REGION}-{PROJECT_NAME}.cloudfunctions.net/cors`
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ozgurg/corsanywhere-firebase-typescript/blob/master/LICENSE)
