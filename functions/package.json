@@ -1,5 +1,7 @@
 {
   "name": "functions",
+  "main": "lib/index.js",
+  "private": true,
   "scripts": {
     "build": "tsc",
     "serve": "npm run build && firebase emulators:start --only functions",
@@ -11,7 +13,6 @@
   "engines": {
     "node": "16"
   },
-  "main": "lib/index.js",
   "dependencies": {
     "cors-anywhere": "^0.4.4",
     "firebase-admin": "^9.8.0",
@@ -20,6 +21,5 @@
   "devDependencies": {
     "firebase-functions-test": "^0.2.0",
     "typescript": "^3.8.0"
-  },
-  "private": true
+  }
 }

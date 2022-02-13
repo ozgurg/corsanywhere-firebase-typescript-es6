@@ -1,30 +1,31 @@
 {
   "name": "corsanywhere-firebase-typescript",
+  "description": "Example usage of cors-anywhere & Firebase Functions & TypeScript with ES6 modules",
+  "license": "MIT",
   "version": "1.0.0",
-  "description": "Example of cors-anywhere & Firebase Functions & TypeScript",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "private": true,
+  "author": {
+    "email": "ozgurgorgulu54@gmail.com",
+    "name": "Özgür Görgülü",
+    "url": "https://github.com/ozgurg"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ozgurg/corsanywhere-firebase-typescript.git"
+    "url": "https://github.com/ozgurg/corsanywhere-firebase-typescript"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "cors",
-    "anywhere",
+    "cors-anywhere",
     "firebase",
+    "firebase-functions",
     "typescript",
-    "firebase",
-    "functions",
-    "cors"
+    "es6",
+    "sample-code"
   ],
-  "author": "Özgür Görgülü",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ozgurg/corsanywhere-firebase-typescript/issues"
-  },
-  "homepage": "https://github.com/ozgurg/corsanywhere-firebase-typescript#readme",
   "dependencies": {
     "firebase-admin": "^10.0.2",
     "firebase-functions": "^3.18.0"
