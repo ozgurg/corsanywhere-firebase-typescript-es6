@@ -1,6 +1,6 @@
 {
   "name": "corsanywhere-firebase-typescript",
-  "description": "Example usage of cors-anywhere & Firebase Functions & TypeScript with ES6 modules",
+  "description": "Example usage of cors-anywhere & Firebase Functions & TypeScript & ES6 modules",
   "license": "MIT",
   "version": "1.0.0",
   "main": "index.js",
