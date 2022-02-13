@@ -1,0 +1,32 @@
+{
+  "name": "corsanywhere-firebase-typescript",
+  "version": "1.0.0",
+  "description": "Example of cors-anywhere & Firebase Functions & TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozgurg/corsanywhere-firebase-typescript.git"
+  },
+  "keywords": [
+    "cors",
+    "anywhere",
+    "firebase",
+    "typescript",
+    "firebase",
+    "functions",
+    "cors"
+  ],
+  "author": "Özgür Görgülü",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ozgurg/corsanywhere-firebase-typescript/issues"
+  },
+  "homepage": "https://github.com/ozgurg/corsanywhere-firebase-typescript#readme",
+  "dependencies": {
+    "firebase-admin": "^10.0.2",
+    "firebase-functions": "^3.18.0"
+  }
+}
