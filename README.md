@@ -17,4 +17,7 @@ cd functions && npm install
 cd functions && npm run deploy
 ```
 
-4) Now you can access cors-anywhere when you enter: https://{FIREBASE_REGION}}-{PROJECT_NAME}.cloudfunctions.net/cors
+4) Now you can access cors-anywhere when you enter: https://{FIREBASE_REGION}-{PROJECT_NAME}.cloudfunctions.net/cors
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ozgurg/corsanywhere-firebase-typescript/blob/master/LICENSE)
