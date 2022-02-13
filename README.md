@@ -20,4 +20,4 @@ npm run deploy
 4) Now you can access "cors-anywhere" when you go `https://{FIREBASE_REGION}-{PROJECT_NAME}.cloudfunctions.net/cors`
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ozgurg/corsanywhere-firebase-typescript/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ozgurg/corsanywhere-firebase-typescript-es6/blob/main/LICENSE)
