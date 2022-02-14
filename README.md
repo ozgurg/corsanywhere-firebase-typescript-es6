@@ -1,5 +1,5 @@
 # cors-anywhere & Firebase Functions & TypeScript & ES6 modules
-Example usage of cors-anywhere & Firebase Functions & TypeScript & ES6 modules.
+Example usage of [cors-anywhere](https://github.com/Rob--W/cors-anywhere) & Firebase Functions & TypeScript & ES6 modules.
 
 Check out `functions/src/index.ts`
 
